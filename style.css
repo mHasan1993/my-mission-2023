@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Yeseva+One&display=swap');
+
+.top-section{
+    display: flex;
+    margin-bottom: 80px;
+    margin-top: 140px;
+}
+h1{
+    font-family: 'Yeseva One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    margin-bottom: 15px;
+}
+.left-border h1{
+   padding-left: 13px; 
+}
+.left-border {
+    border-left: 6px solid tomato;
+    height: 120px;
+    margin-top: 157px;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    margin-top: 0px;
+    width: 70%;
+    padding-left: 150px;
+}
+.orange-cl{
+    color: orange;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    color: #3E3E3E;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    height: 30px;
+    width: 120px;
+    border-radius: 5px;
+    padding: 12px;
+}
+.scroll-down{
+    padding-top: 30px;
+    font-size: 16px;
+}
+
+.my-mission-2023{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+.missions{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 24px;
+}
+.item-1{
+    width: 360px;
+    height: 376px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 26px;
+    padding: 32px;
+}
+.item-2{
+    width: 360px;
+    height: 376px;
+    background: rgba(255, 89, 89, 0.1);;
+    border-radius: 26px;
+    padding: 32px;
+}
+.item-3{
+    width: 360px;
+    height: 376px;
+    background: #FFF4D6;;
+    border-radius: 26px;
+    padding: 32px;
+}
+.mission-items img{
+    width: 141px;
+    height: 141px;
+    margin-top: 20px;
+}
+.mission-info{
+    width: 315px;
+    height: 153px;
+}
+h3{
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0;
+}
+p{
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 19px;
+}
+.coding-limit{
+    display: flex;
+}
+.coding img{
+    width: 400px;
+    height: 400px;
+    padding-left: 158px
+}
+.my-mission{
+    width: 1128px;
+    padding-left: 158px;
+    margin-left: 166px;
+    margin-bottom: 80px;
+}
+.coding-limit{
+    display: flex;
+}
+.half-width-2 img{
+    margin-top: 0px;
+    width: 70%;
+}
