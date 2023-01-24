@@ -120,5 +120,8 @@ p{
 }
 .half-width-2 img{
     margin-top: 0px;
-    width: 70%;
+    width: 60%;
+}
+.develop{
+    padding: 0;
 }
